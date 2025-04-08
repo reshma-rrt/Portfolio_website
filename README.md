@@ -1,1 +1,1 @@
-# [Portfolio Website](https://github.com/reshma-rrt/Portfolio-website/reshma)
+# [Portfolio Website](https://github.com/reshma-rrt/Portfolio-website/)
